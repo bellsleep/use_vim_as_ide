@@ -106,7 +106,7 @@ Plugin 'fholgado/minibufexpl.vim'
 Plugin 'gcmt/wildfire.vim'
 Plugin 'sjl/gundo.vim'
 Plugin 'Lokaltog/vim-easymotion'
-Plugin 'suan/vim-instant-markdown'
+" Plugin 'suan/vim-instant-markdown'
 Plugin 'lilydjwg/fcitx.vim'
 
 " 插件列表结束
@@ -117,8 +117,8 @@ filetype plugin indent on
 " 配色方案
 set background=dark
 "colorscheme solarized
-colorscheme molokai
-"colorscheme phd
+"colorscheme molokai
+colorscheme phd
 
 " >>
 " 营造专注气氛
